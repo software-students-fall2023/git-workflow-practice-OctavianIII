@@ -9,4 +9,4 @@ Overall, the discussion about AI and LLMs in the article was the most interestin
 Please add your own thoughts  
 -----------------  
 ## Comment - juliannzhou
-This is an interesting article - I had not thought about how AI would contribute to DevOps and only had known that it's been applied to writing unit tests/routine tasks. I'm curious about what kinds of DevOps tasks that can be optimized and how AI would work with OS and low-level programming.
+This is an interesting article - I had not thought about how AI would contribute to DevOps and only had known that it's been applied to writing unit tests/routine tasks. I'm curious about what kinds of DevOps tasks that can be optimized and how AI would work with OS and low-level programming.  
